@@ -60,22 +60,7 @@ A collection of my solutions to the CSES Problem Set in C++, documenting my jour
 - [ ] Chessboard and Queens
 - [ ] Digit Queries
 
----
 
-## 📂 Repository Structure
-
-```text
-cses-solutions/
-│
-├── Introductory Problems/
-├── Sorting and Searching/
-├── Dynamic Programming/
-├── Graph Algorithms/
-├── Range Queries/
-└── README.md
-```
-
----
 
 ## 📝 Solution Format
 
