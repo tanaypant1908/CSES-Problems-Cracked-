@@ -2,38 +2,38 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/cses-solutions?style=social)
-![Progress](https://img.shields.io/badge/Progress-In%20Progress-success)
+# 🧩 Algorithms • 📚 Data Structures • ⚡ Competitive Programming
 
-### 📚 My journey through the CSES Problem Set
+A collection of my solutions to the CSES Problem Set in C++, documenting my journey of learning algorithms, data structures, and problem-solving.
 
-Solving algorithms and data structures problems one step at a time while improving problem-solving and competitive programming skills.
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Everyday-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Goals
+## 🎯 Objectives
 
-- 🧠 Strengthen algorithmic thinking
-- ⚡ Improve problem-solving speed
-- 📖 Learn advanced data structures
-- 🏆 Build consistency through daily practice
-- 💻 Write clean and efficient C++ code
+- 🧠 Improve algorithmic thinking
+- ⚡ Develop efficient problem-solving skills
+- 📖 Learn and apply advanced data structures
+- 🏆 Build consistency through competitive programming
+- 💻 Write clean and optimized C++ solutions
 
 ---
 
-## 📊 Progress Tracker
+## 📊 Progress
 
-| Section | Status |
+| Category | Progress |
 |----------|----------|
-| 🌱 Introductory Problems | 🟡 In Progress |
-| 🔄 Sorting and Searching | ⚪ Not Started |
-| 💰 Dynamic Programming | ⚪ Not Started |
-| 🌐 Graph Algorithms | ⚪ Not Started |
-| 📈 Range Queries | ⚪ Not Started |
-| 🧮 Mathematics | ⚪ Not Started |
+| 🌱 Introductory Problems | ⏳ In Progress |
+| 🔄 Sorting and Searching | ⏳ Upcoming |
+| 💰 Dynamic Programming | ⏳ Upcoming |
+| 🌐 Graph Algorithms | ⏳ Upcoming |
+| 📈 Range Queries | ⏳ Upcoming |
+| 🧮 Mathematics | ⏳ Upcoming |
 
 ---
 
@@ -67,9 +67,74 @@ Solving algorithms and data structures problems one step at a time while improvi
 ```text
 cses-solutions/
 │
-├── 🌱 Introductory Problems/
-├── 🔄 Sorting and Searching/
-├── 💰 Dynamic Programming/
-├── 🌐 Graph Algorithms/
-├── 📈 Range Queries/
+├── Introductory Problems/
+├── Sorting and Searching/
+├── Dynamic Programming/
+├── Graph Algorithms/
+├── Range Queries/
 └── README.md
+```
+
+---
+
+## 📝 Solution Format
+
+Each solution contains:
+
+- 🎯 Problem Name
+- 💡 Approach
+- ⏱️ Time Complexity
+- 📦 Space Complexity
+- ✅ Accepted C++ Solution
+
+Example:
+
+```cpp
+/*
+Problem: Missing Number
+
+Approach:
+Compute the expected sum from 1 to n and subtract
+the sum of the given numbers.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+```
+
+---
+
+## 📈 Stats
+
+```text
+Problems Solved : 2
+Language        : C++17
+Status          : In Progress
+```
+
+---
+
+## 🌐 Useful Resources
+
+- 🔗 CSES Problem Set → https://cses.fi/problemset/
+- 🔗 CSES Book → https://cses.fi/book/book.pdf
+- 🔗 C++ Reference → https://en.cppreference.com/
+- 🔗 USACO Guide → https://usaco.guide/
+- 🔗 CP Algorithms → https://cp-algorithms.com/
+- 🔗 Codeforces → https://codeforces.com/
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, consider giving it a ⭐. It helps motivate me to keep solving and documenting more problems.
+
+---
+
+<div align="center">
+
+### 👨‍💻 Maintained by Tanay
+
+*"Consistency compounds. One problem at a time."*
+
+</div>
