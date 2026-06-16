@@ -43,8 +43,8 @@ A collection of my solutions to the CSES Problem Set in C++, documenting my jour
 
 - [x] Weird Algorithm
 - [x] Missing Number
-- [ ] Repetitions
-- [ ] Increasing Array
+- [x] Repetitions
+- [x] Increasing Array
 - [ ] Permutations
 - [ ] Number Spiral
 - [ ] Two Knights
@@ -82,17 +82,12 @@ Approach:
 Compute the expected sum from 1 to n and subtract
 the sum of the given numbers.
 
-Time Complexity: O(n)
-Space Complexity: O(1)
-*/
-```
-
 ---
 
 ## 📈 Stats
 
 ```text
-Problems Solved : 2
+Problems Solved : 4
 Language        : C++17
 Status          : In Progress
 ```
