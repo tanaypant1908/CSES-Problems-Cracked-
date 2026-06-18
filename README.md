@@ -47,7 +47,7 @@ A collection of my solutions to the CSES Problem Set in C++, documenting my jour
 - [x] Increasing Array
 - [x] Permutations
 - [x] Number Spiral
-- [ ] Two Knights
+- [x] Two Knights
 - [ ] Two Sets
 - [ ] Bit Strings
 - [ ] Trailing Zeros
