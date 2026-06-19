@@ -48,7 +48,7 @@ A collection of my solutions to the CSES Problem Set in C++, documenting my jour
 - [x] Permutations
 - [x] Number Spiral
 - [x] Two Knights
-- [ ] Two Sets
+- [x] Two Sets
 - [ ] Bit Strings
 - [ ] Trailing Zeros
 - [ ] Coin Piles
@@ -87,7 +87,7 @@ the sum of the given numbers.
 ## 📈 Stats
 
 ```text
-Problems Solved : 7
+Problems Solved : 8
 Language        : C++17
 Status          : In Progress
 ```
