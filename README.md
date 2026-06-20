@@ -87,7 +87,7 @@ the sum of the given numbers.
 ## 📈 Stats
 
 ```text
-Problems Solved : 8
+Problems Solved : 9
 Language        : C++17
 Status          : In Progress
 ```
