@@ -49,7 +49,7 @@ A collection of my solutions to the CSES Problem Set in C++, documenting my jour
 - [x] Number Spiral
 - [x] Two Knights
 - [x] Two Sets
-- [ ] Bit Strings
+- [x] Bit Strings
 - [ ] Trailing Zeros
 - [ ] Coin Piles
 - [ ] Palindrome Reorder
